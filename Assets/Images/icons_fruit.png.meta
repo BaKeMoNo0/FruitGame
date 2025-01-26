@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: c0d25e9e70a789649adc3dc15c5974cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icons_fruit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1257.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57d12e0091ae34ab4d24de6ae42de2
+      internalID: -1793450846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1257.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a98ec8da3dd9c41921ee50a5b96041
+      internalID: -193375085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1257.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f21acc5f50fe4aa561e3667068169
+      internalID: -1130358412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1257.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78fc4719cafcb641bae6c3c9edaa3c6
+      internalID: 1367936579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1257.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f9dcba3841604c9d0078cd9af615b
+      internalID: -1332250708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1257.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fecd6363220b4faaab2f641a8e7c3
+      internalID: -2044065116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c400c0378df542bb5652bb38bba5b
+      internalID: -503932054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1006.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3017f725edbb6743b2f0fb181f930c1
+      internalID: -1315695765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1006.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d135ebcdbd19c469c4cab6a6504ad9
+      internalID: -747322488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1006.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5339014b05fa0b4aa42b755be93b3b6
+      internalID: 1762513227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1006.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158350b7d75c2934aa74903f64660d9e
+      internalID: -82947324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_11
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1006.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a201eed1560940840db0c4518476a
+      internalID: -975875178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294451c27c7f3aa4ba49800712a6b576
+      internalID: 1327648091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 755.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0734fe03de0445429476f4da34fd0f0
+      internalID: 519618972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 755.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d04082a9aaaa004e9e54105b1796a53
+      internalID: -1256975312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 755.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72369340c8603e6498f271389a86753c
+      internalID: -241187789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 755.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53170f231a2ae9b488a2701a3210ead7
+      internalID: -1755256357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_17
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 755.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec22c590c7f0cb0459a2630c62815561
+      internalID: -1982462323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c0748341f0b946aed5700e9ee4dd9
+      internalID: 896785228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 504.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ea7fbb70389743bea4a9141597f37
+      internalID: -2080681067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 504.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982eb6f5a58fc66438ebf4247cca32b8
+      internalID: -1667907545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 504.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f9c7eb6b78744ab88176d3a0f342c
+      internalID: -104697690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 504.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62943d07d2ea92542b4d52b6c2aa8ebd
+      internalID: 1603536765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_23
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 504.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfdbd6e5cbce884a941c9650a6ba493
+      internalID: 965086781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bddcbcd360fea498dcf035a485e49d
+      internalID: -1636115629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 253.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe27da2c6deec4289aa40bf7975421
+      internalID: 2089773955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 253.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd0936bc5fa30468d53cb34d5d8ccd
+      internalID: 1375650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 253.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c290fbca9c994ea9d65ae63899b07
+      internalID: 1933366460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_28
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 253.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd8d22b68a9b5447b0892aa8b3b4c45
+      internalID: 1359463651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_29
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 253.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9329e62a3b3d842adac868871cbf27
+      internalID: -53161252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4079c5391963a7c4abf0f8f024a8d89a
+      internalID: -1363192739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d694c0cb272fe418110486a40344b7
+      internalID: -1313734597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94bc951e93cde947a0c0f8a002834c6
+      internalID: -2134027796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b975a81a814954fa02cdc43b932397
+      internalID: -2144417962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7541fd5101384084b0164b56b6ac6
+      internalID: 1485528296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons_fruit_35
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2.5
+        width: 250.5
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509c9c78f6cbe240876f6b0039a505f
+      internalID: -1219810010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      icons_fruit_0: -1793450846
+      icons_fruit_1: -193375085
+      icons_fruit_10: -82947324
+      icons_fruit_11: -975875178
+      icons_fruit_12: 1327648091
+      icons_fruit_13: 519618972
+      icons_fruit_14: -1256975312
+      icons_fruit_15: -241187789
+      icons_fruit_16: -1755256357
+      icons_fruit_17: -1982462323
+      icons_fruit_18: 896785228
+      icons_fruit_19: -2080681067
+      icons_fruit_2: -1130358412
+      icons_fruit_20: -1667907545
+      icons_fruit_21: -104697690
+      icons_fruit_22: 1603536765
+      icons_fruit_23: 965086781
+      icons_fruit_24: -1636115629
+      icons_fruit_25: 2089773955
+      icons_fruit_26: 1375650
+      icons_fruit_27: 1933366460
+      icons_fruit_28: 1359463651
+      icons_fruit_29: -53161252
+      icons_fruit_3: 1367936579
+      icons_fruit_30: -1363192739
+      icons_fruit_31: -1313734597
+      icons_fruit_32: -2134027796
+      icons_fruit_33: -2144417962
+      icons_fruit_34: 1485528296
+      icons_fruit_35: -1219810010
+      icons_fruit_4: -1332250708
+      icons_fruit_5: -2044065116
+      icons_fruit_6: -503932054
+      icons_fruit_7: -1315695765
+      icons_fruit_8: -747322488
+      icons_fruit_9: 1762513227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
